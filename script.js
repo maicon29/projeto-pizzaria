@@ -11,4 +11,4 @@ const toggle = conteudo.querySelector('.toggle');
     show = !show;
 })
 
-alert('em processo de produção')
+alert('Em processo de criação')
